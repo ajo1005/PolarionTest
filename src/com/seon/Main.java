@@ -3,7 +3,7 @@ package com.seon;
 public class Main {
 //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
 	/**
-	 * @wi TEST1/TEST-391 changes
+	 * @wi TEST-391
 	 * @param args
 	 */
 	public static void main(String[] args) {
